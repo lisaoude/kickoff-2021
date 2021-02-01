@@ -1,11 +1,10 @@
 const xhr = new XMLHttpRequest()
 
-const url = 'https://600ff44f6c21e1001704fac2.mockapi.io/minor-web/api/squads/1/teams/1/members?id=40';
+const url = 'https://600ff44f6c21e1001704fac2.mockapi.io/minor-web/api/squads/1/teams/1/members';
 
 const userData = {
     "teamId": "1",
     "name": "Lisa",
-    "avatar": "https://avatars.githubusercontent.com/u/57795294?s=460&u=264667545ecf35ed8216f8d64effbad302a43494&v=4",
     "prefix": "",
     "surname": "Oude Elferink",
     "mugshot": "https://avatars.githubusercontent.com/u/57795294?s=460&u=264667545ecf35ed8216f8d64effbad302a43494&v=4",
