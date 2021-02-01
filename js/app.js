@@ -1,6 +1,5 @@
 const xhr = new XMLHttpRequest()
 
-// GET REQUEST
 const url = 'https://600ff44f6c21e1001704fac2.mockapi.io/minor-web/api/squads/1/teams/1/members?id=40';
 
 const userData = {
