@@ -1,6 +1,6 @@
 //const xhr = new XMLHttpRequest()
 //
-//const url = 'https://600ff44f6c21e1001704fac2.mockapi.io/minor-web/api/squads/1/teams/1/members/48';
+//const url = 'https://600ff44f6c21e1001704fac2.mockapi.io/minor-web/api/squads/1/teams/1/members/8';
 //
 //const userData = {
 //    "teamId": "1",
@@ -15,9 +15,10 @@
 //        "pet": "poes Kyra, kater Bram",
 //        "muziek": "Lo-Fi, Pop, van alles",
 //        "werkplek": "Thuis"
-//    }
+//    },
+//    "url": "https://lisaoude.github.io/kickoff-2021/"
 //}
 //
-//xhr.open("DELETE", url, true)
+//xhr.open("PUT", url, true)
 //xhr.setRequestHeader('Content-Type', 'application/json')
 //xhr.send(JSON.stringify(userData))
